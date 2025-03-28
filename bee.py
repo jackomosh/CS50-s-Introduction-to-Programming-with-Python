@@ -41,9 +41,11 @@ def main():
     else:
         print("Not eligible")
 
+    # print out the results later after the game has ended
+    """"
     for word, points in Words.item:
         print(f"{word} was worth {points}")
-
+    """
 main()
 
 
